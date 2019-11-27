@@ -4,8 +4,8 @@ To implement a distributed banking system where the different terminal windows w
 ## Software Requirements
 • Eclipse IDE\
 • JDK (Java Development Kit)\
-• JRE (Java Runtime Environment)\ 
-• Windows Command Line (module of Windows OS)\ 
+• JRE (Java Runtime Environment)&nbsp; 
+• Windows Command Line (module of Windows OS)&nbsp;
 
 ## Compilation Steps 
 Open a command prompt window. Navigate to the source code directory
