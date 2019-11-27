@@ -2,10 +2,10 @@
 To implement a distributed banking system where the different terminal windows will simulate the independent clients/users which will try to simultaneously access a server emulated by a database and controlled by a java program. Once they are granted the access they can perform basic transaction operations like deposit, withdrawal, inquiry and bank statement receipt. 
 
 ## Software Requirements
-• Eclipse IDE. 
-• JDK (Java Development Kit). 
-• JRE (Java Runtime Environment). 
-• Windows Command Line (module of Windows OS). 
+• Eclipse IDE\
+• JDK (Java Development Kit)\
+• JRE (Java Runtime Environment)\ 
+• Windows Command Line (module of Windows OS)\ 
 
 ## Compilation Steps 
 Open a command prompt window. Navigate to the source code directory
